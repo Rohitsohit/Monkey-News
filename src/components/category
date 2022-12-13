@@ -1,0 +1,3 @@
+
+
+<Route path="/about"><News pagesize={20} country='in' categorys='sports' ></News></Route>
